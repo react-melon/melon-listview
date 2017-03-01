@@ -1,0 +1,35 @@
+{
+    "name": "melon-listview",
+    "description": "Melon Listview",
+    "main": [
+        "lib/index.js",
+        "lib/index.styl"
+    ],
+    "authors": [
+        "cxtom <cxtom2008@gmail.com>"
+    ],
+    "license": "MIT",
+    "keywords": [
+        "react",
+        "melon",
+        "listview"
+    ],
+    "moduleTypes": "umd",
+    "homepage": "https://github.com/react-melon/melon-colorpicker",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "**/*.log",
+        ".DS_Store",
+        "test",
+        "tests",
+        "src",
+        "example",
+        "tools"
+    ],
+    "dependencies": {
+        "melon-core": "^0.4"
+    },
+    "version": "1.0.1"
+}
